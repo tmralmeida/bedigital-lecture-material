@@ -19,4 +19,4 @@ I also covered basic machine learning concepts and described industrial use case
 
 The exercises are in Jupyter notebooks specifically designed to work in the Google Colab environment, where students explore topics such as exploratory data analysis of trajectory datasets and deep learning applied to time series classification and prediction.
 
-Python scripts are provided to support the exercises to be solved during the lectures (*_exercises.ipynb*) and the projects to be solved at home (*_exercises.ipynb*).
+Python scripts are provided to support the exercises to be solved during the lectures (*_exercises.ipynb*) and the projects to be solved at home (*_exercises.ipynb*). You can find them [here](https://github.com/tmralmeida/bedigital-lecture-material/tree/main/colab-data).
